@@ -13,7 +13,7 @@ This repository contains multiple submodules, each representing a unique NLP pro
 To get started with the Practical NLP Toolkit, you'll need to clone this repository and its submodules. Use the following commands:
 
 ```bash
-git clone https://github.com/Vatsal-Malaviya/Practical-NLP-Toolkit.git
+git clone git@github.com:Vatsal-Malaviya/Practical-NLP-Toolkit.git
 cd Practical-NLP-Toolkit
 git submodule update --init --recursive
 ```
